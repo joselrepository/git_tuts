@@ -1,3 +1,3 @@
 file3
 
-for my third commit
+this file 3 has been fixed
